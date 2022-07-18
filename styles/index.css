@@ -2,25 +2,26 @@ body {
     color: hsl(238, 29%, 16%);
     background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
     font-family: 'Kumbh Sans', sans-serif;
-    font-size: 1em;
+    font-size: 12px;
+    font-weight: 400;
 }
 
 .woman  {
-    width: 350px;
+    width: 70%;
     text-align: center;
-    margin: 30px auto -180px auto;
+    margin: 50px auto -100px;
     padding: 50%, auto 0;
 }
 
 .bg  {
-    width: 350px;
+    width: 70%;
     text-align: center;
-    margin: -80px auto;
+    margin: 20px auto -135px;
     padding: 0, auto;
 }
 
-.img    {
-    width: 70%;
+.logo {
+    width: 100%;
 }
 
 .questions  {
@@ -28,19 +29,54 @@ body {
     border-radius: 25px;
     width: 90%;
     margin: 0 auto;
+    margin-bottom: 15%;
 }
 
 h1  {
     text-align: center;
-    padding-top: 30%;
-    font-size: 3em;
+    padding-top: 40%;
+    font-weight: 700;
+    font-size: 2.5em;
 }
-hr  {
-    border-top: 1 px hsl(240, 5%, 91%);
+
+.ques {
+    display: inline-block;
+    width: 80%;
+}
+
+.arrow {
+    width: 20%;
+    
+}
+
+.arrowBox {
+    display: inline-block;
+    text-align: right;
+    width: 18%;
+}
+
+details {
+    margin: 0% 8%;
+    border-bottom: 1px solid hsl(240, 5%, 91%);
+}
+details>summary {
+    list-style: none;
+    padding: 6% 0;
+}
+
+p   {
+    width: 90%;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+summary::-webkit-details-marker {
+    display: none;
 }
 
 .attribution { 
     font-size: 11px; text-align: center; 
+    padding: 5% 0;
 }
 
 .attribution a { 
