@@ -1,6 +1,6 @@
 # Frontend Mentor Challenge: FAQ Accordian Card
 
-Descripton: [Click here](frontend-mentor) for the details of this project.
+Descripton: [Click here](faq-accordian-card) for the details of this project.
 
 ## Table of contents
 
@@ -76,7 +76,7 @@ I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.co
 
 
 
-# Frontend Mentor - FAQ accordion card
+# FAQ accordion card
 
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
