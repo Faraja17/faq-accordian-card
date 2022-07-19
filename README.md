@@ -1,6 +1,6 @@
-# Title of Project
+# Frontend Mentor Challenge: FAQ Accordian Card
 
-Descripton: 
+Descripton: [Click here](frontend-mentor) for the details of this project.
 
 ## Table of contents
 
