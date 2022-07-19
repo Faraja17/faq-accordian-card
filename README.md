@@ -1,6 +1,6 @@
 # Frontend Mentor Challenge: FAQ Accordion Card
 
-Descripton: My challenge wass to build out the given FAQ accordion card and get it looking as close to the design as possible.
+Descripton: My challenge was to build out the given FAQ accordion card and get it looking as close to the design as possible.
 
 My users should be able to:
 
