@@ -64,9 +64,14 @@ details {
     margin: 0% 8%;
     border-bottom: 1px solid hsl(240, 5%, 91%);
 }
+
 details>summary {
     list-style: none;
     padding: 6% 0;
+}
+
+details>summary:hover {
+    color: hsl(14, 88%, 65%);
 }
 
 details[open] summary {
