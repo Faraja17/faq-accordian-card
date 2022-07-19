@@ -1,5 +1,5 @@
 body {
-    color: hsl(238, 29%, 16%);
+    color: hsl(240, 6%, 50%);
     background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 12px;
@@ -37,6 +37,7 @@ h1  {
     padding-top: 40%;
     font-weight: 700;
     font-size: 2.5em;
+    color: hsl(238, 29%, 16%);
 }
 
 .ques {
@@ -47,6 +48,10 @@ h1  {
 .arrow {
     width: 20%;
     
+}
+
+.arrow:active {
+    transform: rotate(180deg);
 }
 
 .arrowBox {
@@ -62,6 +67,15 @@ details {
 details>summary {
     list-style: none;
     padding: 6% 0;
+}
+
+details[open] summary {
+    color: hsl(237, 12%, 33%);
+    font-weight: 700;
+}
+
+details[open] .arrow {
+    transform: rotate(180deg);
 }
 
 p   {
