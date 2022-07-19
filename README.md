@@ -1,6 +1,15 @@
 # Frontend Mentor Challenge: FAQ Accordion Card
 
-Descripton: [Click here](#faq-accordion-card) for the details of this project.
+Descripton: My challenge wass to build out the given FAQ accordion card and get it looking as close to the design as possible.
+
+My users should be able to:
+
+View the optimal layout for the component depending on their device's screen size
+See hover states for all interactive elements on the page
+Hide/Show the answer to a question when the question is clicked
+Bonus: Complete the challenge without using JavaScript
+
+[Click here](#faq-accordion-card) for the details of this project.
 
 ## Table of contents
 
@@ -17,22 +26,13 @@ Descripton: [Click here](#faq-accordion-card) for the details of this project.
 
 ## Overview
 
-
-
+I decided to complete this challenge in order to practice my JavaScript DOM manipulation, but it turned out that the bonus was to get the accordion function working WITHOUT using JavaScript. So, instead, I had a very good and thorough practice problem-solving with HTML and CSS. This was a highly engaging and rewarding project, but I spent way too much time on it! Therefore, I stopped after achieving only the mobile version. It is not responsive. Still, I am very pleased with the results!
 
 ### Screenshots
-| <b>Mobile View</b>| 
-|:--:|
-| ![My Solution for Mobile]() |
 
-| <b>Desktop View</b>| 
+| <b>Click image for full-screen view</b> | 
 |:--:|
-| ![My Solution for Desktop]() |
-
-| <b>More Screenshots</b> | 
-|:--:|
-| [![Link to Google Slides](link-to-slides.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
-| [Direct Link to Google Presentation](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146)|
+| [![Link to Mobile Image](link-to-slides.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
 
 
 ### Links
