@@ -32,7 +32,8 @@ I decided to complete this challenge in order to practice my JavaScript DOM mani
 
 | <b>Click image for full-screen view</b> | 
 |:--:|
-| [![Link to Mobile Image](link-to-slides.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
+| [![Link to Mobile Image](https://github.com/Faraja17/faq-accordian-card/blob/main/Screen%20Shot%202022-07-19%20at%202.26.59%20PM.png?raw=true)](https://github.com/Faraja17/faq-accordian-card/blob/main/Screen%20Shot%202022-07-19%20at%202.26.59%20PM.png?raw=true) |
+| Screenshot taken using inspect tool set to 375px width |
 
 
 ### Links
