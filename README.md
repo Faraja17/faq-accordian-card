@@ -1,4 +1,4 @@
-# Frontend Mentor Challenge: FAQ Accordian Card
+# Frontend Mentor Challenge: FAQ Accordion Card
 
 Descripton: [Click here](faq-accordian-card) for the details of this project.
 
