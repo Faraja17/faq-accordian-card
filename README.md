@@ -38,7 +38,7 @@ I decided to complete this challenge in order to practice my JavaScript DOM mani
 
 ### Links
 
-- Live Site URL: [name of site](URL)
+- Live Site URL: [Try it out on Responsinator website!](http://www.responsinator.com/?url=https%3A%2F%2Fcodepen.io%2Ffaraja17%2Ffull%2FabYByxW)
 
 ## My process
 
