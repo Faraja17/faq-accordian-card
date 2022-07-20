@@ -9,7 +9,7 @@ See hover states for all interactive elements on the page
 Hide/Show the answer to a question when the question is clicked
 Bonus: Complete the challenge without using JavaScript
 
-[Click here](#faq-accordion-card) for the details of this project.
+[Click here](#project-description) for the details of this project.
 
 ## Table of contents
 
@@ -83,7 +83,7 @@ I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.co
 
 ## Project Description
 
-# FAQ accordion card
+# Frontend Mentor - FAQ accordion card
 
 ![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
 
