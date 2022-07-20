@@ -42,7 +42,7 @@ I decided to complete this challenge in order to practice my JavaScript DOM mani
 
 ## My process
 
-
+- Please visit [my commits](https://github.com/Faraja17/faq-accordian-card/commits/main) for details!
 
 ### Built with
 
@@ -51,17 +51,20 @@ I decided to complete this challenge in order to practice my JavaScript DOM mani
 
 ### What I learned
 
-
+- Review of HTML and CSS
+- Review of the HTML details tag
+- How to apply properties to specific elements within the details container
 
 ### Continued development
 
-
+- I'd like to practice more JavaScript on the road to fluency
 
 ### Useful resources
 
-- []() - annotation
-- []() - annotation
-- 
+- MDN documentation
+- W3Schools documentation
+- Stackoverflow
+
 ## Author
 
 Faraja Thompson
@@ -74,8 +77,7 @@ Faraja Thompson
 
 I'd like to acknowledge my son and mentor [DeForestt Thompson](https://github.com/DeForestt).  His steadfast support and encouragement keep me motivated!  Thanks for forcing me to use the command-line, Son <3 <3 <3.
 
-
-
+---
 
 # FAQ accordion card
 
