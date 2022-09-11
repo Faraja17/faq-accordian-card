@@ -40,7 +40,7 @@ I decided to complete this challenge in order to practice my JavaScript DOM mani
 
 - Live Site URL: [Test the functionality on CodePen!](
 https://codepen.io/faraja17/pen/abYByxW)
-- Live Site URL: [View at the specified 385px width on the Responsinator website!](http://www.responsinator.com/?url=https%3A%2F%2Fcodepen.io%2Ffaraja17%2Ffull%2FabYByxW)
+- Live Site URL: [View at the specified 375px width on the Responsinator website!](http://www.responsinator.com/?url=https%3A%2F%2Fcodepen.io%2Ffaraja17%2Ffull%2FabYByxW)
 
 ## My process
 
